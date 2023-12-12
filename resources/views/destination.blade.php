@@ -41,18 +41,7 @@
           </div>
         </div>
         @endforeach
-        <div class="col">
-            <div class="card h-100">
-              <img src="img/Wae Rebo.jpg" class="rounded" style="width:364px" height="200px">
-              <div class="card-body">
-                <h5 class="card-title">Wae Rebo</h5>
-                <p class="card-text"></p>
-              </div>
-              <div class="card-footer">
-                  <a href ="#" class="btn btn-sm btn-dark">Lihat destinasi</a>
-              </div>
-            </div>
-        </div>
+
     </div>
 
 
